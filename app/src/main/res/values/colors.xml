@@ -10,4 +10,10 @@
     <color name="progressionBar1">#FCB586</color>
     <color name="progressionBar2">#EE5F00</color>
     <color name="progressionBar3">#B33F00</color>
+    <color name="progressionBar4">#00C9A7</color>
+    <color name="lineColor">#006B8F</color>
+    <color name="circleColor">#ABE9CD</color>
+    <color name="fillColor">#AEE2E6</color>
+
+
 </resources>
